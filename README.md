@@ -11,7 +11,7 @@
 
 # screenshots
 
-![Alt text](screenshots/file size before.png "Description goes here")
+![Alt text](screenshots/file%20size%20before.png "Description goes here")
 
 
 
