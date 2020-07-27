@@ -11,7 +11,7 @@
 
 # screenshots
 
-**File Size Before**: - ![](screenshots/file size before.png "Description goes here")
+**File Size Before**: - ![alt text](screenshots/file size before.png "Description goes here")
 
 
 
