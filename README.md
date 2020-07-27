@@ -9,6 +9,8 @@
 
 **Issues** - If there any issues please dm me on discord and I will explain and try help you
 
+**Notice** - ONLY TESTED ON GOLANG ELF BINS
+
 **Usage**: - python3.8 Kpack.py --files [space sep list of paths to elf bins] --upx [path to upx if left none program will assume upx is sym linked]
 
 # screenshots
