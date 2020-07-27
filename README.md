@@ -9,6 +9,10 @@
 
 **Usage**: - python3.8 Kpack.py --files [space sep list of paths to elf bins] --upx [path to upx if left none program will assume upx is sym linked]
 
+# screenshots
+
+**File Size Before**: - ![](screenshots/file size before.png "Description goes here")
+
 
 
 
