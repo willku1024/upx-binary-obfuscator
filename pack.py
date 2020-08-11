@@ -1,5 +1,5 @@
 # Author: k1rk#1999 on discord
-# Date: 27 July
+# Date: 27 July 2020 
 
 # Standard library #
 from sys import exit, argv
