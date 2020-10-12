@@ -1,4 +1,4 @@
-# Author: k1rk#1999 on discord
+# Author: k1rk#2580 on discord
 # Date: 27 July 2020 
 
 # Standard library #
